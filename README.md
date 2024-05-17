@@ -37,5 +37,5 @@ A keylogger is a type of software or hardware device that records every keystrok
 <p>Keylogger is developed for educational purposes only. The creators of Keylogger are not responsible for any misuse of this tool. This tool should not be used in any unauthorized or illegal manner. Always ensure ethical and legal use of this tool.</p>
 <h4>Thank you</h4>
 
-# author: Hasmik Minasyan 2024
+# author: Arman Alkesanyan 2024
 
